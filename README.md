@@ -9,6 +9,9 @@ This is a simple file organizer application with a graphical user interface (GUI
 - User-friendly interface with Tkinter.
 - Allows users to select the folder to organize.
 
+YOU CAN DOWNLOAD THE file_organizer_gui.exe FROM RELEASES AND RUN THE PROGRAM DIRECTLY
+OR YOU CAN FOLLOW THE STEPS BELLOW:
+
 ## Requirements
 
 - Python 3.x
