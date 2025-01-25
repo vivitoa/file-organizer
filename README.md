@@ -1,11 +1,12 @@
 ```
 # File Organizer
 
-This is a simple file organizer application with a graphical user interface (GUI) created using Tkinter. The application allows users to select a folder and organize files into subfolders based on their file types.
+This is a simple file organizer application with a graphical user interface (GUI) created using Tkinter.
+The application allows users to select a folder and organize files into subfolders based on their file types.
 
 ## Features
 
-- Organize files into categories such as Images, Documents, Videos, Music, Applications, Compressed Files, and Torrent Files.
+- Organize files into categories such as Images, Documents, Videos, Music, Applications, Compressed Files and Torrent Files.
 - User-friendly interface with Tkinter.
 - Allows users to select the folder to organize.
 
